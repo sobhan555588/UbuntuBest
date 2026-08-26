@@ -6,7 +6,7 @@ A new Song Of Sobsam Corp
 https://github.com/sobhan555588/sobsamOS
 ```
 <br>
-We Hope To Enjoy it GOOD LUCK !!
+We Hope To Enjoy it GOOD LUCK 
 <br>
 ## License
 This Song Have Copyright Roles On License
